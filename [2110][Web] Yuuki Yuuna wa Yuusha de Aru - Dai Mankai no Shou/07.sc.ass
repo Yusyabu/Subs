@@ -17,9 +17,9 @@ Video File: [NC-Raws] YuYuYu - Dai Mankai no Shou - 07 [B-Global].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 108
-Active Line: 128
-Video Position: 8911
+Scroll Position: 198
+Active Line: 208
+Video Position: 19208
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -251,8 +251,8 @@ Dialogue: 0,0:12:45.93,0:12:48.61,Default,,0,0,0,,若叶 到底发生了什么
 Dialogue: 0,0:12:53.81,0:12:56.64,Default,,0,0,0,,她…打算杀我
 Dialogue: 0,0:12:59.00,0:13:04.25,Default,,0,0,0,,但是 她最后为了保护我被夺去了生命
 Dialogue: 0,0:13:17.37,0:13:18.37,Default,,0,0,0,,你们看看这个
-Dialogue: 0,0:13:21.11,0:13:24.12,ObjectTextVert,,0,0,0,,{\an7\fs30\c&H4F514F&\fn大赦黑体@ DemiBold\fax0.1\blur0.5\fsp5\pos(921,209)}已完成中学课程
-Dialogue: 0,0:13:21.11,0:13:24.12,ObjectTextVert,,0,0,0,,{\an7\fs30\c&H4F514F&\fn大赦黑体@ DemiBold\fax0.1\blur0.5\fsp5\pos(609,236)}今后也请多多关照
+Dialogue: 0,0:13:21.11,0:13:24.12,ObjectTextVert,,0,0,0,,{\an7\fs35\c&H5B5E5B&\fn@华康翩翩体W5-A\b1\blur0.5\fsp7\pos(921,209)}已完成中学课程
+Dialogue: 0,0:13:21.11,0:13:24.12,ObjectTextVert,,0,0,0,,{\an7\fs35\c&H696967&\fn@华康翩翩体W5-A\b1\blur0.5\fsp7\pos(609,236)}今后也请多多关照
 Dialogue: 0,0:13:22.66,0:13:23.30,Default,,0,0,0,,那是
 Dialogue: 0,0:13:24.27,0:13:26.36,Default,,0,0,0,,大家一起在教室做的
 Dialogue: 0,0:13:27.05,0:13:27.55,Default,,0,0,0,,嗯
