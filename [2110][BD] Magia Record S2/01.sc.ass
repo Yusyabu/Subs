@@ -19,6 +19,15 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: OPJP-furigana,FOT-UDMarugo_Large Pr6N DB,43,&H00FFFFFF,&H000000FF,&H002A4ECC,&H00000000,0,0,0,0,100,100,2,0,1,1.5,0,8,25,25,10,1
+Style: OPCN-furigana,大赦圆体 DemiBold,36,&H00FFFFFF,&H000000FF,&H002A4ECC,&H00000000,0,0,0,0,95,100,3,0,1,1.5,0,2,25,25,25,1
+Style: Annotation-furigana,大赦黑体,20,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,95,100,1,0,1,1,0,7,25,25,20,1
+Style: Ruby-furigana,大赦黑体 DemiBold,17.5,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,25,25,25,1
+Style: Flashback-furigana,大赦黑体 DemiBold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,3,0,1,1.5,0,2,25,25,25,1
+Style: EPTitle-furigana,大赦宋体,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,110,4,0,1,0,0,2,25,25,100,1
+Style: ObjectText-furigana,大赦黑体,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,2,0,1,0,0,5,25,25,25,1
+Style: Runes-furigana,Cinzel Black,32,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,5,0,1,0,0,5,25,25,25,1
+Style: Default-furigana,大赦黑体 DemiBold,36,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,95,100,3,0,1,1.5,0,2,25,25,25,1
 Style: Default,大赦黑体 DemiBold,72,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,95,100,3,0,1,3,0,2,25,25,25,1
 Style: Runes,Cinzel Black,64,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,5,0,1,0,0,5,25,25,25,1
 Style: ObjectText,大赦黑体,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,2,0,1,0,0,5,25,25,25,1
@@ -26,10 +35,53 @@ Style: EPTitle,大赦宋体,36,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0
 Style: Flashback,大赦黑体 DemiBold,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,3,0,1,3,0,2,25,25,25,1
 Style: Ruby,大赦黑体 DemiBold,35,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,25,25,25,1
 Style: Annotation,大赦黑体,40,&H10FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,95,100,1,0,1,2,0,7,25,25,20,1
+Style: OPCN,大赦黑体 DemiBold,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,2,0,1,1,0,1,30,30,25,1
+Style: OPJP,FOT-UDKakugo_Large Pr6N DB,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,1,0,1,30,30,10,1
+Style: Credit,大赦黑体 SemiBold,30,&H00FFFFFF,&H000000FF,&H10000000,&H00000000,0,0,0,0,100,100,5,0,1,1,0,5,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Flashback,,0,0,0,template line keeptags,{\blur2}
+Comment: 0,0:00:00.00,0:00:00.00,OPCN,,0,0,0,template line,{\fad(517,517)\blur2}
+Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,template line,{\fad(517,517)\blur2}
+Comment: 0,0:20:26.08,0:20:26.12,OPCN,,0,0,0,,OPCN Begin
+Comment: 0,0:20:43.43,0:20:48.56,OPCN,,0,0,0,karaoke,将「还不成熟」贴在背后　又一味找寻着借口
+Comment: 0,0:20:48.56,0:20:53.06,OPCN,,0,0,0,karaoke,掩藏的焦虑化作皱纹
+Comment: 0,0:20:54.44,0:20:59.45,OPCN,,0,0,0,karaoke,「还不成熟」于此狭小之处　连计算期限之法也置之不理
+Comment: 0,0:20:59.45,0:21:04.74,OPCN,nofadeout,0,0,0,karaoke,遗忘于房间一角
+Comment: 0,0:21:04.91,0:21:10.08,OPCN,,0,0,0,karaoke,前路未知　步履蹒跚
+Comment: 0,0:21:10.08,0:21:14.75,OPCN,nofadeout,0,0,0,karaoke,眼前之物转瞬整洁如初
+Comment: 0,0:21:15.17,0:21:19.68,OPCN,,0,0,0,karaoke,并非虚像　并非幻听
+Comment: 0,0:21:19.68,0:21:24.26,OPCN,,0,0,0,karaoke,声乐轻抚　治愈我的伤口
+Comment: 0,0:21:24.43,0:21:29.73,OPCN,nofadeout,0,0,0,karaoke,步入歧途只需笑着说大家都一样
+Comment: 0,0:21:29.73,0:21:34.56,OPCN,nofadeout,0,0,0,karaoke,笔下的愿望多么笨拙也只需坚信
+Comment: 0,0:21:35.11,0:21:41.49,OPCN,,0,0,0,karaoke,下定决心　迈步向前
+Comment: 0,0:21:41.49,0:21:44.99,OPCN,,0,0,0,karaoke,前往未知之地
+Comment: 0,0:21:46.20,0:21:50.08,OPCN,,0,0,0,karaoke,即使怯懦也终将抵达
+Comment: 0,0:21:56.04,0:21:56.09,OPCN,,0,0,0,,OPCN End
+Comment: 0,0:20:26.08,0:20:26.12,OPJP,,0,0,0,,OPJP Begin
+Comment: 0,0:20:43.43,0:20:48.56,OPJP,,0,0,0,karaoke,「大人じゃない」背中につけて　まだ言い訳ばかり
+Comment: 0,0:20:48.56,0:20:53.06,OPJP,,0,0,0,karaoke,焦り取引繕えばシワになる
+Comment: 0,0:20:54.44,0:20:59.45,OPJP,,0,0,0,karaoke,「大人じゃない」狭いここには　期限計る術さえ
+Comment: 0,0:20:59.45,0:21:04.74,OPJP,nofadeout,0,0,0,karaoke,部屋の隅忘れてる
+Comment: 0,0:21:04.91,0:21:10.08,OPJP,,0,0,0,karaoke,台本なんてなくて　躓いてばかり
+Comment: 0,0:21:10.08,0:21:14.75,OPJP,nofadeout,0,0,0,karaoke,突然目の前全部しまわれてた
+Comment: 0,0:21:15.17,0:21:19.68,OPJP,,0,0,0,karaoke,偶像でもなくて　空耳じゃない
+Comment: 0,0:21:19.68,0:21:24.26,OPJP,,0,0,0,karaoke,声が傷をそっと癒やしてる
+Comment: 0,0:21:24.43,0:21:29.73,OPJP,nofadeout,0,0,0,karaoke,間違いもお揃いだねって笑えたらいい
+Comment: 0,0:21:29.73,0:21:34.56,OPJP,nofadeout,0,0,0,karaoke,書き出した願い不器用だけど信じればいい
+Comment: 0,0:21:35.11,0:21:41.49,OPJP,,0,0,0,karaoke,真っ直ぐに歩いてるつもりでも決まって
+Comment: 0,0:21:41.49,0:21:44.99,OPJP,,0,0,0,karaoke,知らない場所出るんだ
+Comment: 0,0:21:46.20,0:21:50.08,OPJP,,0,0,0,karaoke,臆病でも　いつか
+Comment: 0,0:21:56.04,0:21:56.09,OPJP,,0,0,0,,OPJP End
+Comment: 0,0:21:45.91,0:21:50.62,Credit,,0,0,0,,Credit Begin
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1310,1450,134)\fad(0,310)}白羽根
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\move(1450,1350,1450,174)\fad(0,310)}K027
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1425,1450,249)\fad(0,310)}黒羽根
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\fsp0\move(1450,1465,1450,289)\fad(0,310)}見崎かすみ
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1655,1450,479)\fad(0,310)}字幕
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\fsp0\move(1450,1695,1450,519)\fad(0,310)}赞州中学勇者部
+Comment: 0,0:21:45.91,0:21:50.62,Credit,,0,0,0,,Credit End
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H141B16&\blur1\fs40\pos(953,913)\fad(600,0)}SINCE\N2011
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H1E2920&\blur1.2\fs48\fad(800,0)\pos(760,635)\fsp0}PROLOG
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H1E2920&\blur1.2\fs48\fad(800,0)\pos(1135,635)\fsp0}IM HIMMEL
@@ -341,6 +393,32 @@ Dialogue: 0,0:23:20.30,0:23:22.12,Default,,0,0,0,,找我有什么事吗
 Dialogue: 0,0:23:22.59,0:23:26.84,Annotation,,0,0,0,,注：音梦所读之书为王尔德的《快乐王子》
 Dialogue: 0,0:23:25.02,0:23:29.46,Default,,0,0,0,,你认识姐姐…
 Dialogue: 0,0:23:29.46,0:23:33.67,Default,,0,0,0,,不…你认识环彩羽吗
+Dialogue: 0,0:20:43.43,0:20:48.56,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}将「还不成熟」贴在背后　又一味找寻着借口
+Dialogue: 0,0:20:48.56,0:20:53.06,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}掩藏的焦虑化作皱纹
+Dialogue: 0,0:20:54.44,0:20:59.45,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}「还不成熟」于此狭小之处　连计算期限之法也置之不理
+Dialogue: 0,0:20:59.45,0:21:04.74,OPCN,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}遗忘于房间一角
+Dialogue: 0,0:21:04.91,0:21:10.08,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}前路未知　步履蹒跚
+Dialogue: 0,0:21:10.08,0:21:14.75,OPCN,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}眼前之物转瞬整洁如初
+Dialogue: 0,0:21:15.17,0:21:19.68,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}并非虚像　并非幻听
+Dialogue: 0,0:21:19.68,0:21:24.26,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}声乐轻抚　治愈我的伤口
+Dialogue: 0,0:21:24.43,0:21:29.73,OPCN,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}步入歧途只需笑着说大家都一样
+Dialogue: 0,0:21:29.73,0:21:34.56,OPCN,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}笔下的愿望多么笨拙也只需坚信
+Dialogue: 0,0:21:35.11,0:21:41.49,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}下定决心　迈步向前
+Dialogue: 0,0:21:41.49,0:21:44.99,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}前往未知之地
+Dialogue: 0,0:21:46.20,0:21:50.08,OPCN,,0,0,0,fx,{\fad(517,517)\blur2}即使怯懦也终将抵达
+Dialogue: 0,0:20:43.43,0:20:48.56,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}「大人じゃない」背中につけて　まだ言い訳ばかり
+Dialogue: 0,0:20:48.56,0:20:53.06,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}焦り取引繕えばシワになる
+Dialogue: 0,0:20:54.44,0:20:59.45,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}「大人じゃない」狭いここには　期限計る術さえ
+Dialogue: 0,0:20:59.45,0:21:04.74,OPJP,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}部屋の隅忘れてる
+Dialogue: 0,0:21:04.91,0:21:10.08,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}台本なんてなくて　躓いてばかり
+Dialogue: 0,0:21:10.08,0:21:14.75,OPJP,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}突然目の前全部しまわれてた
+Dialogue: 0,0:21:15.17,0:21:19.68,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}偶像でもなくて　空耳じゃない
+Dialogue: 0,0:21:19.68,0:21:24.26,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}声が傷をそっと癒やしてる
+Dialogue: 0,0:21:24.43,0:21:29.73,OPJP,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}間違いもお揃いだねって笑えたらいい
+Dialogue: 0,0:21:29.73,0:21:34.56,OPJP,nofadeout,0,0,0,fx,{\fad(517,517)\blur2}書き出した願い不器用だけど信じればいい
+Dialogue: 0,0:21:35.11,0:21:41.49,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}真っ直ぐに歩いてるつもりでも決まって
+Dialogue: 0,0:21:41.49,0:21:44.99,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}知らない場所出るんだ
+Dialogue: 0,0:21:46.20,0:21:50.08,OPJP,,0,0,0,fx,{\fad(517,517)\blur2}臆病でも　いつか
 Dialogue: 0,0:10:25.56,0:10:27.91,Flashback,,0,0,0,fx,{\blur2}我才不是什么值得憧憬的人
 Dialogue: 0,0:10:28.29,0:10:31.48,Flashback,,0,0,0,fx,{\blur2}我只是在逞强装样子罢了
 Dialogue: 0,0:10:32.04,0:10:35.59,Flashback,,0,0,0,fx,{\blur2}感到害怕或是难受也不能向别人倾诉
