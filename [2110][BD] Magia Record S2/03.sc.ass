@@ -431,7 +431,12 @@ Dialogue: 0,0:21:05.80,0:21:07.64,Default,,0,0,0,,虽然回来的有点晚
 Dialogue: 0,0:21:08.25,0:21:11.05,Default,,0,0,0,,不是约好了不会死的吗
 Dialogue: 0,0:21:12.39,0:21:15.37,Default,,0,0,0,,拜此所赐我才平安回来了
 Dialogue: 0,0:21:41.99,0:21:44.99,EPTitle,,0,0,125,,{\c&H8172DF&}也曾沉重得无法承受吧
-Dialogue: 0,0:23:18.46,0:23:21.46,ObjectText,,0,0,0,,
+Dialogue: 0,0:23:18.46,0:23:19.67,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&HF7F4FD&\blur0.5\pos(359,683)\fad(0,50)}短信收到了吗？希望麻美学姐平安无事
+Dialogue: 0,0:23:19.80,0:23:20.88,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&HF7F4FD&\blur0.5\fad(50,50)\pos(1358,594)}我很担心你
+Dialogue: 0,0:23:21.05,0:23:22.17,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&HF7F4FD&\blur0.5\fad(50,50)\pos(644,629)}麻美学姐，没事吧？请联系我
+Dialogue: 0,0:23:22.38,0:23:23.42,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&HF7F4FD&\blur0.5\fad(50,50)\pos(362,621)}麻美学姐现在在哪里？我听沙耶香说了
+Dialogue: 0,0:23:23.67,0:23:26.47,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&H4FABC0&\blur0.5\fad(50,0)\pos(311,607)}无论发生什么，我都会拯救大家
+Dialogue: 0,0:23:26.47,0:23:29.47,ObjectText,,0,0,0,,{\an7\fn大赦黑体 DemiBold\c&H4FABC0&\blur0.5\fs56\pos(101,670)}无论发生什么，我都会拯救大家
 Dialogue: 0,0:01:02.88,0:01:07.26,OPCN,,0,0,0,fx,{\fad(517,517)}将「还不成熟」贴在背后　又一味找寻着借口
 Dialogue: 0,0:01:08.02,0:01:11.50,OPCN,,0,0,0,fx,{\fad(517,517)}掩藏的焦虑化作皱纹
 Dialogue: 0,0:01:13.89,0:01:18.39,OPCN,,0,0,0,fx,{\fad(517,517)}「还不成熟」于此狭小之处　连计算期限之法也置之不理
