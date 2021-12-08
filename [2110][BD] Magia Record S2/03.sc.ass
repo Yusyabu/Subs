@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
-Original Script: 赞州中学勇者部
+Original Script: 勇者部
 Kerning: yes
 
 [Aegisub Project Garbage]
@@ -71,12 +71,12 @@ Comment: 0,0:02:00.53,0:02:03.44,OPJP,,0,0,0,karaoke,知らない場所出るん
 Comment: 0,0:02:05.64,0:02:08.52,OPJP,,0,0,0,karaoke,臆病でも　いつか
 Comment: 0,0:02:14.99,0:02:15.03,OPJP,,0,0,0,,OPJP End
 Comment: 0,0:00:45.02,0:00:45.07,Credit,,0,0,0,,Credit Begin
-Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\fs56\pos(1530,450)}白羽根
+Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\fs56\pos(1530,450)}白羽
 Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\fsp5\pos(1530,505)}K027
-Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\fs56\pos(1530,619)}黒羽根
+Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\fs56\pos(1530,619)}黑羽
 Dialogue: 0,0:02:06.56,0:02:08.48,Credit,,0,0,0,,{\fad(517,517)\pos(1530,674)}見崎かすみ
 Dialogue: 0,0:02:11.11,0:02:13.49,Credit,,0,0,0,,{\fad(571,0)\fs60\fsp8\pos(964,655)\blur0.5}字幕
-Dialogue: 0,0:02:11.11,0:02:13.49,Credit,,0,0,0,,{\fad(571,0)\fs60\fn大赦圆体 DemiBold\fs50\pos(964,707)\blur0.5}赞州中学勇者部
+Dialogue: 0,0:02:11.11,0:02:13.49,Credit,,0,0,0,,{\fad(571,0)\fs60\fn大赦圆体 DemiBold\fs50\pos(964,707)\blur0.5}神滨市立大学勇者部
 Comment: 0,0:02:14.99,0:02:15.03,Credit,,0,0,0,,Credit End
 Comment: 0,0:21:44.99,0:21:45.03,EDCN,,0,0,0,,EDCN Start
 Comment: 0,0:21:59.47,0:22:02.89,EDCN,,0,0,0,karaoke,从手心滑落水中

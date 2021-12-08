@@ -8,7 +8,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
-Original Script: 赞州中学勇者部
+Original Script: 勇者部
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
@@ -66,12 +66,12 @@ Comment: 0,0:21:41.49,0:21:44.99,OPJP,,0,0,0,karaoke,知らない場所出るん
 Comment: 0,0:21:46.20,0:21:50.08,OPJP,,0,0,0,karaoke,臆病でも　いつか
 Comment: 0,0:21:56.04,0:21:56.09,OPJP,,0,0,0,,OPJP End
 Comment: 0,0:21:45.91,0:21:50.62,Credit,,0,0,0,,Credit Begin
-Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1310,1450,134)\fad(0,310)}白羽根
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1310,1450,134)\fad(0,310)}白羽
 Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\move(1450,1350,1450,174)\fad(0,310)}K027
-Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1425,1450,249)\fad(0,310)}黒羽根
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1425,1450,249)\fad(0,310)}黑羽
 Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\fsp0\move(1450,1465,1450,289)\fad(0,310)}見崎かすみ
 Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs30\fsp5\move(1450,1655,1450,479)\fad(0,310)}字幕
-Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\fsp0\move(1450,1695,1450,519)\fad(0,310)}赞州中学勇者部
+Dialogue: 0,0:21:44.20,0:21:50.62,Credit,,0,0,0,,{\blur2\fs36\fsp0\move(1450,1695,1450,519)\fad(0,310)}神滨市立大学勇者部
 Comment: 0,0:21:45.91,0:21:50.62,Credit,,0,0,0,,Credit End
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H141B16&\blur1\fs40\pos(953,913)\fad(600,0)}SINCE\N2011
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H1E2920&\blur1.2\fs48\fad(800,0)\pos(760,635)\fsp0}PROLOG
