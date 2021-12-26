@@ -1,11 +1,11 @@
 ![Banner](https://cdn.jsdelivr.net/gh/Yusyabu/Subs@assets/yusyabu-banner.png)
 
-## Projects
+## 项目 Projects
 
 **查看[勇者御記](https://github.com/orgs/Yusyabu/projects/1)**<br>
 **View our [Project List](https://github.com/orgs/Yusyabu/projects/1)**
 
-## About Us
+## 关于我们 About Us
 
 勇者部是一个乐于助人的团体。我们致力于在一起制作和分享动画字幕的过程中获得快乐。勇者部欢迎有志者的加入。
 
@@ -18,48 +18,45 @@
 - 只要去做大概都能做到
 - 不要勉强，自己也要幸福
 
-## Notice
+## 注意事项 Notice
 
-### Copyright & Redistribution
+### 版权及再利用 Copyright & Redistribution
 
-- 所有Git仓库中的字幕，因为有可能正处于施工中，所以禁止二次利用。
-- 在Releases页发布的字幕，除另有说明，遵循[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
-- 勇者部将打包字幕视为一个整体发布，字幕包的文件目录结构（包括但不限于字幕文件名）亦受禁止演绎之约束。
-
+- 勇者部Git仓库中的所有字幕，处于制作进行中，禁止任何形式的二次利用。
+- 勇者部已完成的字幕，将在[Releases](https://github.com/Yusyabu/Subs/releases)页面打包发布，除有特殊说明外，可以在遵循《[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)》的前提下二次利用。
+- 勇者部打包发布的字幕包视为一个整体，其文件目录结构（包括但不限于字幕文件名）亦受上述协议的约束。
 - For all subtitles in this Git repository, no rights are granted to you, because they may be work-in-progress.
 - For released subtitles in the "Releases" page, they are released under [Creative Common BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0).
 - We treat one packaged subtitle archive as a whole. The directory structure of an archive, including filenames, is also restricted by the "NoDerivatives" term.
 
-Examples:
+#### 使用用例 Examples
 
-- 允许：将勇者部的字幕包转载到任意地方。
-- 允许：将勇者部的字幕包解压缩，在未修改文件目录结构（包括文件名）的情况下重新打包，并转载到任意地方。
-- 允许：在你所制作的WebRip/BDRip的发布页中，使用链接提供我们的字幕包。
-- 禁止：声称勇者部为你的作品背书/声称勇者部与你合作。
-- 禁止：改名匹配并二次发布。现在观众可以使用许多自动化工具来方便地自行改名匹配，因此将改名匹配后的字幕包二次发布是没有必要的。
-- 禁止：调轴并二次发布。勇者部的所有项目均会按计划针对BD进行二次调轴，因此并没有第三方调轴的必要。
-  如果你发现勇者部的BD字幕与你所观看的BDRip时轴对不上，那一定是那个压制组的问题。
-- 禁止：将勇者部的字幕混流/编码进你的视频文件中，无论有无修改或转换。
-- 禁止：将勇者部的字幕作为文件内容加入你的作品中，无论有无修改或转换。
+- 禁止 Prohibited
+   - 将字幕文件的任何内容（包括但不限于翻译文本、时间轴、字体样式、字幕文件名）进行修改后二次发布。<br>
+     勇者部所有项目均会按计划针对BD进行调轴，因此没有第三方调轴的必要。<br>
+     如果您发现我们的字幕中有任何不完善的地方，欢迎通过此仓库的Issues进行字幕反馈和报错，我们将及时处理。<br>
+     如果您希望对繁体字幕进行进一步繁化修正，也可以通过Issues提出。
+   - 将字幕编码进视频文件，制作内嵌硬字幕视频；将字幕封装进多媒体文件，制作内封字幕视频；以及任何形式的加流重灌、外挂结构等等。
+   - 声称勇者部为您的作品背书 / 声称勇者部与您合作。
+   - Modify our subtitles (text, timing, styles, filenames, etc.) and redistribute.
+   - Remux/Encode our subtitles into your work, or include our subtitles as file content in your work.
+   - State Yusyabu endorses your work, or state Yusyabu collaborates with you.
+- 允许 Allowed
+   - 将Releases页面的字幕包原封不动转载到任意地方。
+   - 将解压后的字幕文件，原样或重新打包，在未经修改（包括字幕文件名）的情况下，转载到任意地方。
+   - 在您所制作的WebRip/BDRip作品的发布页中，使用链接提供我们的字幕包。
+   - Share our released subtitle archives to anywhere, unmodified.
+   - Repackage and redistribute our released subtitles to anywhere, with directory structure preserved.
+   - In the release page of your WebRip/BDRip, use hyperlinks to provide our subtitles.
 
-- Allowed: Share our released subtitles to anywhere.
-- Allowed: Repackage and redistribute our released subtitles to anywhere, with directory structure preserved.
-- Allowed: In the release page of your WebRip/BDRip, use hyperlinks to provide our subtitles.
-- Prohibited: State Yusyabu endorses your work, or state Yusyabu collaborates with you.
-- Prohibited: Rename the subtitle files and then redistribute.
-- Prohibited: Do timing for our subtitles and then redistribute. We try to make BD ver. subtitles for all of our projects.
-- Prohibited: Remux/Encode our subtitles into your work, whether you have done modification or transformation or not.
-- Prohibited: Add our subtitles as file content into your work, whether you have done modification or transformation or not.
-
-
-### Subtitles in Traditional Chinese
+### 繁體字幕 Subtitles in Traditional Chinese
 
 所有繁體字幕，除非另有説明，均使用大陸用語、國標字形（即大陸繁體），由繁化姬自動轉換而成。<br>
 All subtitles that are in Traditional Chinese, unless otherwise indicated, use Mainland vocabulary and *Guobiao* (PRC standard) glyphs.
 (cmn-hant-CN).
 They are automatically converted by [zhconvert.org](https://zhconvert.org).
 
-### Feedback
+### 报错及反馈 Feedback
 
 你可以通过此仓库的Issues进行字幕反馈和报错。<br>
 You can use "Issues" for feedback.
