@@ -37,8 +37,8 @@ Dialogue: 0,0:00:05.73,0:00:07.99,ObjectText,,0,0,0,,{\c&HF2BBF7&\fr-18\pos(831,
 Dialogue: 0,0:00:06.43,0:00:12.01,Default,,0,0,0,,為此 即使是在休息日 人們有時也必須要勞動才行
 Dialogue: 0,0:00:07.98,0:00:10.24,ObjectTextVert,,0,0,0,,{\fn大赦圆体@\b1\c&HC8B1F5&\bord1.5\3c&H8F95AB&\3a&H00&\fs42\pos(1436,686)\fr-91}琴美
 Dialogue: 0,0:00:07.98,0:00:10.24,ObjectTextVert,,0,0,0,,{\fn大赦圆体@\b1\c&HECC464&\bord1.5\3c&H8F95AB&\3a&H00&\fs42\fr-92\pos(1293,795)}獨奏會
-Dialogue: 0,0:00:10.24,0:00:12.49,ObjectText,,0,0,0,,{\c&H303E72&\3c&HDAE1E3&\bord2\fs30\fn大赦黑体 Light\fr3\pos(94,457)}募捐
-Dialogue: 0,0:00:10.24,0:00:12.49,ObjectText,,0,0,0,,{\c&H303E72&\3c&HDAE1E3&\bord2\fs30\fn大赦黑体 Light\fr3\pos(307,438)}募捐
+Dialogue: 0,0:00:10.24,0:00:12.49,ObjectText,,0,0,0,,{\c&H303E72&\3c&HDAE1E3&\bord2\fs30\fn大赦黑体\fr3\pos(94,457)}募捐
+Dialogue: 0,0:00:10.24,0:00:12.49,ObjectText,,0,0,0,,{\c&H303E72&\3c&HDAE1E3&\bord2\fs30\fn大赦黑体\fr3\pos(307,438)}募捐
 Dialogue: 0,0:00:10.24,0:00:12.49,ObjectTextVert,,0,0,0,,{\fn大赦圆体@ SemiBold\c&HFFFEFF&\3c&H95B347&\bord2\fr-101\pos(873,303)}幸福螺旋募捐活動
 Dialogue: 0,0:00:10.24,0:00:12.49,ObjectTextVert,,0,0,0,,{\c&H263869&\3c&HF8F8F3&\bord2\fn大赦黑体@ ExtraBold\fs42\fr-91\fax0.1\pos(1498,514)}手工
 Dialogue: 0,0:00:10.24,0:00:12.49,ObjectTextVert,,0,0,0,,{\c&H263869&\3c&HF8F8F3&\bord2\fn大赦黑体@ ExtraBold\fs42\fr-91\fax0.1\pos(1730,488)}果醬
