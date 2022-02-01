@@ -12,8 +12,8 @@ Original Script: 勇者部
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../EP04.pork.mkv
-Video File: ../EP04.pork.mkv
+Audio File: ../magia-bd/EP04.pork.mkv
+Video File: ../magia-bd/EP04.pork.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -277,8 +277,8 @@ Dialogue: 0,0:10:58.23,0:10:59.77,Default,,0,0,0,,你以为我们是为了谁来
 Dialogue: 0,0:10:59.77,0:11:01.49,Default,,0,0,0,,果然还是不太好
 Dialogue: 0,0:11:01.49,0:11:03.14,Default,,0,0,0,,好好和大家商量一下吧
 Dialogue: 0,0:11:03.79,0:11:04.82,Default,,0,0,0,,你啊
-Dialogue: 0,0:11:04.39,0:11:15.15,Runes,,0,0,0,,{\pos(960,632)\c&H474D51&\bord1\3c&H262626&\blur2}UNMEI HA RERU NO SAKI NI ARU
-Dialogue: 0,0:11:04.39,0:11:15.15,Runes,,0,0,0,,{\pos(960,924)\c&H26292D&\bord1\3c&H262626&\blur1\fn大赦宋体 SemiBold\fsp15}命运存在于彼{\fsp0}岸
+Dialogue: 0,0:11:04.39,0:11:15.15,Runes,,0,0,0,,{\pos(960,632)\c&H474D51&\bord1\3c&H262626&\blur2}FATE IS ALONG THESE TRACKS
+Dialogue: 0,0:11:04.39,0:11:15.15,Runes,,0,0,0,,{\pos(960,924)\c&H26292D&\bord1\3c&H262626&\blur1\fn大赦宋体 SemiBold\fsp15}命运存在于铁道之{\fsp0}沿
 Dialogue: 0,0:11:05.45,0:11:06.98,Default,,0,0,0,,是我不好
 Dialogue: 0,0:11:07.54,0:11:10.41,Default,,0,0,0,,没听调整师的话
 Dialogue: 0,0:11:10.41,0:11:13.41,Default,,0,0,0,,总之我们要离开这 站起来
@@ -289,8 +289,8 @@ Dialogue: 0,0:11:23.15,0:11:24.87,Default,,0,0,0,,入口关闭了
 Dialogue: 0,0:11:24.87,0:11:26.98,Default,,0,0,0,,白羽们在吗
 Dialogue: 0,0:11:26.98,0:11:28.45,Default,,0,0,0,,你们做了什么啊
 Dialogue: 0,0:11:28.45,0:11:29.17,Default,,0,0,0,,对不起
-Dialogue: 0,0:11:29.17,0:11:39.30,Runes,,0,0,0,,{\pos(960,632)\c&H474D51&\bord1\3c&H262626&\blur2}WATASHITACHI HA HAKOBARERU KOTOSHIKA DEKINAI
-Dialogue: 0,0:11:29.17,0:11:39.30,Runes,,0,0,0,,{\pos(960,924)\c&H26292D&\bord1\3c&H262626&\blur1\fn大赦宋体 SemiBold\fsp15}我们只能动身前{\fsp0}往
+Dialogue: 0,0:11:29.17,0:11:39.30,Runes,,0,0,0,,{\pos(960,632)\c&H474D51&\bord1\3c&H262626&\blur2}WE CAN ONLY BE TAKEN TO IT
+Dialogue: 0,0:11:29.17,0:11:39.30,Runes,,0,0,0,,{\pos(960,924)\c&H26292D&\bord1\3c&H262626&\blur1\fn大赦宋体 SemiBold\fsp15}我们只能被带往命{\fsp0}运
 Dialogue: 0,0:11:29.89,0:11:30.78,Default,,0,0,0,,算了
 Dialogue: 0,0:11:30.78,0:11:33.86,Default,,0,0,0,,但是 也有人追着我们过来
 Dialogue: 0,0:11:33.86,0:11:36.09,Default,,0,0,0,,就绕远路回薄望之馆
