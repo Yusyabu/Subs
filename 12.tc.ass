@@ -13,8 +13,8 @@ Original Script: 勇者部
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: EP12.pork.mkv
-Video File: EP12.pork.mkv
+Audio File: W:/[BDMV] 結城友奈は勇者である -大満開の章-/[BDMV][220119][PCXG-50782] 結城友奈は勇者である -大満開の章- [Vol.2]/YUYUYU_DAIMANKAI_2_DISC2/BDMV/STREAM/00002.mkv
+Video File: W:/[BDMV] 結城友奈は勇者である -大満開の章-/[BDMV][220119][PCXG-50782] 結城友奈は勇者である -大満開の章- [Vol.2]/YUYUYU_DAIMANKAI_2_DISC2/BDMV/STREAM/00002.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -401,8 +401,8 @@ Dialogue: 0,0:19:48.92,0:19:52.15,Default,,0,0,0,,只要風在 化石燃料就�
 Dialogue: 0,0:19:52.15,0:19:54.21,Default,,0,0,0,,產生不錯的實驗成果
 Dialogue: 0,0:19:54.86,0:19:59.07,Default,,0,0,0,,是呢 我也覺得是神樹大人在回應
 Dialogue: 0,0:20:00.03,0:20:04.06,Default,,0,0,0,,不 曾被稱作神性的東西 也就是相性
-Dialogue: 0,0:20:04.06,0:20:09.57,ObjectText,,0,0,0,,{\fn大赦宋体\b1\fay0.15\fs36\c&H637DE2&\blur0.8\fscx90\fsp0\move(845,337,845,603,20,5484)}機密樣本
-Dialogue: 0,0:20:04.06,0:20:09.57,ObjectText,,0,0,0,,{\fn大赦宋体\b1\fay0.15\fax-0.05\fs36\c&H637DE2&\blur0.8\fscx90\fsp0\move(1421,451,1421,718,0,5484)}機密樣本
+Dialogue: 0,0:20:04.06,0:20:09.57,ObjectText,,0,0,0,,{\fn大赦宋体\b1\fay0.15\fs36\c&H637DE2&\blur0.8\fscx90\fsp0\move(845,630,845,435)}機密樣本
+Dialogue: 0,0:20:04.06,0:20:09.57,ObjectText,,0,0,0,,{\fn大赦宋体\b1\fay0.15\fax-0.05\fs36\c&H637DE2&\blur0.8\fscx90\fsp0\move(1421,745,1421,550)}機密樣本
 Dialogue: 0,0:20:04.80,0:20:06.42,Default,,0,0,0,,這是無意識下的理解
 Dialogue: 0,0:20:06.80,0:20:10.07,Default,,0,0,0,,將其解明 使大家也能運用
 Dialogue: 0,0:20:10.07,0:20:11.89,Default,,0,0,0,,這是我現在的使命
