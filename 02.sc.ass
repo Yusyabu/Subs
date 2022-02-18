@@ -278,11 +278,11 @@ Dialogue: 0,0:11:49.48,0:11:52.44,Default,,0,0,0,,毕竟和那些家伙意见也
 Dialogue: 0,0:11:55.83,0:11:59.72,Default,,0,0,0,,要如何前往Magius的总部 薄望之馆
 Dialogue: 0,0:12:00.15,0:12:02.60,Default,,0,0,0,,所以说 我是中立的
 Dialogue: 0,0:12:02.60,0:12:06.54,Default,,0,0,0,,想拯救魔法少女也不是什么坏事吧
-Dialogue: 0,0:12:06.54,0:12:08.29,ObjectText,,0,0,0,,{\an7\fn方正像素12\b1\c&H545834&\fscx100\fsp10\fs40\pos(487,712)}Magius把\N无辜的人卷了进来
+Dialogue: 0,0:12:06.54,0:12:08.29,ObjectText,,0,0,0,,{\an7\fnZpix\b1\c&H545834&\fscx100\fsp6\fs40\pos(487,712)}Magius把\N无辜的人卷了进来
 Dialogue: 0,0:12:10.13,0:12:11.92,Default,,0,0,0,,即使如此我还是不会原谅
 Dialogue: 0,0:12:12.68,0:12:13.80,Default,,0,0,0,,不能原谅
-Dialogue: 0,0:12:15.42,0:12:17.67,ObjectText,,0,0,250,,{\an7\fn方正像素12\b1\c&H545834&\fscx100\fsp10\fs40\pos(487,712)}Magius把\N无辜的人卷了进来
-Dialogue: 0,0:12:15.42,0:12:17.67,ObjectText,,0,0,250,,{\an9\fn方正像素12\b1\c&H545834&\fscx100\fsp10\fs40\pos(1370,712)}Magius\N害死了环彩羽
+Dialogue: 0,0:12:15.42,0:12:17.67,ObjectText,,0,0,250,,{\an7\fnZpix\b1\c&H545834&\fscx100\fsp6\fs40\pos(487,712)}Magius把\N无辜的人卷了进来
+Dialogue: 0,0:12:15.42,0:12:17.67,ObjectText,,0,0,250,,{\an9\fnZpix\b1\c&H545834&\fscx100\fsp6\fs40\pos(1370,712)}Magius\N害死了环彩羽
 Dialogue: 0,0:12:18.23,0:12:20.68,Default,,0,0,0,,彩羽不在后我明明应该感到痛苦
 Dialogue: 0,0:12:21.21,0:12:24.70,Default,,0,0,0,,但幸存的我却继续工作 与人交往
 Dialogue: 0,0:12:25.19,0:12:27.30,Default,,0,0,0,,和她在的时候毫无区别
