@@ -77,7 +77,7 @@ Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H141B16&\blur1\fs40\pos(953,
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H1E2920&\blur1.2\fs48\fad(800,0)\pos(760,635)\fsp0}PROLOG
 Dialogue: 0,0:00:02.19,0:00:06.57,Runes,,0,0,0,,{\c&H1E2920&\blur1.2\fs48\fad(800,0)\pos(1135,635)\fsp0}IM HIMMEL
 Dialogue: 0,0:00:02.19,0:00:06.57,Annotation,,0,0,0,,{\fn大赦宋体 Heavy\c&H748A86&\fad(2000,0)\fs36\bord0}注：Prolog im Himmel 是 Faust 的第一场
-Dialogue: 0,0:00:02.19,0:00:06.57,Annotation,,0,0,0,,{\fn大赦黑体 Medium\c&H748A86&\fad(2000,0)\fs26\bord0\fsp8}　　　　天堂序曲           {\fsp6}浮士德
+Dialogue: 0,0:00:02.19,0:00:06.57,Annotation,,0,0,0,,{\fn大赦黑体 DemiBold\c&H748A86&\fad(2000,0)\fs26\bord0\fsp7}　　　  　天堂序曲           浮士德
 Dialogue: 0,0:00:15.41,0:00:17.91,Runes,,0,0,0,,{\an7\c&HEEEEEE&\pos(140,960)\blur0.5}PATRICIA
 Dialogue: 0,0:00:24.61,0:00:26.34,Default,,0,0,0,,小焰 交给我
 Dialogue: 0,0:00:26.34,0:00:28.72,Default,,0,0,0,,等等 鹿目同学 我也一起
