@@ -42,10 +42,10 @@
    - Remux/Encode our subtitles into your work, or include our subtitles as file content in your work.
    - State Yusyabu endorses your work, or state Yusyabu collaborates with you.
 - 允许 Allowed
-   - 将Releases页面的字幕包原封不动转载到任意地方。
+   - 将Releases页面的字幕包原封不动转载到任意地方。*建议在转载字幕包的同时一并转载字体包。*
    - 将解压后的字幕文件，原样或重新打包，在未经修改（包括字幕文件名）的情况下，转载到任意地方。
    - 在您所制作的WebRip/BDRip作品的发布页中，使用链接提供我们的字幕包。
-   - Share our released subtitle archives to anywhere, unmodified.
+   - Share our released subtitle archives to anywhere, unmodified. It is recommended to share the font archive along with the subtitle archive.
    - Repackage and redistribute our released subtitles to anywhere, with directory structure preserved.
    - In the release page of your WebRip/BDRip, use hyperlinks to provide our subtitles.
 
