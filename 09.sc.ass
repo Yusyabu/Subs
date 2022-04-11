@@ -12,8 +12,8 @@ YCbCr Matrix: TV.709
 Original Script: 勇者部
 
 [Aegisub Project Garbage]
-Audio File: [LoliHouse] Slow Loop - 09 [WebRip 1080p HEVC-10bit AAC].mkv
-Video File: [LoliHouse] Slow Loop - 09 [WebRip 1080p HEVC-10bit AAC].mkv
+Audio File: ../slowloop/[Yusyabu&LoliHouse] SLOW LOOP - 09 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv
+Video File: ../slowloop/[Yusyabu&LoliHouse] SLOW LOOP - 09 [WebRip 1080p HEVC-10bit AAC ASSx2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -110,7 +110,7 @@ Comment: 0,0:21:52.18,0:21:58.61,EDCN,,0,0,0,karaoke,清风吹拂　心旷神怡
 Comment: 0,0:21:58.61,0:22:04.52,EDCN,,0,0,0,karaoke,还有千言万语未能出口
 Comment: 0,0:22:04.52,0:22:11.27,EDCN,,0,0,0,karaoke,就不经意打了个哈欠
 Comment: 0,0:22:11.27,0:22:17.29,EDCN,,0,0,0,karaoke,明天会放晴吗
-Comment: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,karaoke,一起来念生疏的咒语
+Comment: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,karaoke,快慢不一地念着放晴的咒语
 Comment: 0,0:22:27.45,0:22:34.17,EDCN,,0,0,0,karaoke,空中飘舞的棉花糖
 Comment: 0,0:22:34.17,0:22:39.30,EDCN,,0,0,0,karaoke,要不要尝尝呢
 Comment: 0,0:22:40.59,0:22:46.64,EDCN,,0,0,0,karaoke,泡泡纷纷扬扬
@@ -614,8 +614,8 @@ Dialogue: 0,0:22:04.52,0:22:11.27,EDCN,,0,0,0,fx,{\blur5\pos(960,75)\fad(500,500
 Dialogue: 0,0:22:04.52,0:22:11.27,EDCN,,0,0,0,fx,{\pos(960,75)\bord1.5\3c&HF58180&\fad(500,500)}就不经意打了个哈欠
 Dialogue: 0,0:22:11.27,0:22:17.29,EDCN,,0,0,0,fx,{\blur5\pos(960,75)\fad(500,500)}明天会放晴吗
 Dialogue: 0,0:22:11.27,0:22:17.29,EDCN,,0,0,0,fx,{\pos(960,75)\bord1.5\3c&HF58180&\fad(500,500)}明天会放晴吗
-Dialogue: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,fx,{\blur5\pos(960,75)\fad(500,1000)}一起来念生疏的咒语
-Dialogue: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,fx,{\pos(960,75)\bord1.5\3c&HF58180&\fad(500,1000)}一起来念生疏的咒语
+Dialogue: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,fx,{\blur5\pos(960,75)\fad(500,1000)}快慢不一地念着放晴的咒语
+Dialogue: 0,0:22:17.29,0:22:27.45,EDCN,long,0,0,0,fx,{\pos(960,75)\bord1.5\3c&HF58180&\fad(500,1000)}快慢不一地念着放晴的咒语
 Dialogue: 0,0:22:27.45,0:22:34.17,EDCN,,0,0,0,fx,{\blur5\pos(960,75)\fad(500,500)}空中飘舞的棉花糖
 Dialogue: 0,0:22:27.45,0:22:34.17,EDCN,,0,0,0,fx,{\pos(960,75)\bord1.5\3c&HF58180&\fad(500,500)}空中飘舞的棉花糖
 Dialogue: 0,0:22:34.17,0:22:39.30,EDCN,,0,0,0,fx,{\blur5\pos(960,75)\fad(500,500)}要不要尝尝呢
