@@ -184,8 +184,8 @@ Dialogue: 0,0:08:05.01,0:08:06.72,Default,,0,0,0,,因為有死後強直
 Dialogue: 0,0:08:07.68,0:08:08.72,Default,,0,0,0,,死後…
 Dialogue: 0,0:08:08.72,0:08:13.22,Default,,0,0,0,,魚也和人類一樣 會出現死後強直
 Dialogue: 0,0:08:13.22,0:08:16.52,Default,,0,0,0,,被你這樣一說…
-Dialogue: 0,0:08:17.23,0:08:18.31,ObjectTextVert,,0,0,0,,{\fad(300,500)\fn大赦圆体@\fs64\b1\c&H3439E1&\3c&H00010D&\bord6\fsp15\frz254\pos(737,409)}死後強直
-Dialogue: 0,0:08:17.23,0:08:18.31,ObjectTextVert,,0,0,0,,{\fad(300,500)\fn大赦圆体@\fs64\b1\c&H3439E1&\3c&H00010D&\bord6\fsp15\frz294\pos(139,387)}不在場證明
+Dialogue: 0,0:08:17.23,0:08:18.31,ObjectTextVert,,0,0,0,,{\fad(300,500)\fn大赦圆体\fs64\b1\c&H3439E1&\3c&H00010D&\bord6\fsp15\fr-16\pos(737,409)}死\n後\n強\n直
+Dialogue: 0,0:08:17.23,0:08:18.31,ObjectTextVert,,0,0,0,,{\fad(300,500)\fn大赦圆体\fs64\b1\c&H3439E1&\3c&H00010D&\bord6\fsp15\fr24\pos(139,387)}不\n在\n場\n證\n明
 Dialogue: 0,0:08:17.23,0:08:19.94,Default,,0,0,0,,感覺好有犯罪性
 Dialogue: 0,0:08:18.31,0:08:22.06,ObjectText,,0,0,0,,{\fad(100,0)\fn大赦圆体\fs64\b1\bord2\an4\c&H141937&\3c&HFFFFFF&\3a&H10&\pos(996,319)}動機…\N　太想吃了
 Dialogue: 0,0:08:19.98,0:08:21.73,Default,,0,0,0,,我倒是感覺不到
